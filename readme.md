@@ -1,4 +1,4 @@
-**<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&width=500&height=80&duration=3000&lines=Hey+there+:);I'm+Tim">
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&width=500&height=60&duration=3000&lines=Hey+there+:);I'm+Tim">
 
 <br>
 
