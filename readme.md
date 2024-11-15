@@ -4,4 +4,4 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TimmieBimmie&theme=dark&hide_border=true&border_radius=5.5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=300)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TimmieBimmie&theme=dark&hide_border=true&border_radius=5.5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=300" alt="GitHub Streak" /></a>
