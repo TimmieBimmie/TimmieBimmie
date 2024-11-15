@@ -5,9 +5,9 @@
 <br>
 
 <div align="center">
-  💻 I'm currently working on *Web-Applications*
-  🕵️ Passionate about **Cybersecurity**
-  🔭 Atm. I'm learning to develop GUIs in Java/Python/etc.
+  <p>💻 I'm currently working on <b>Web-Applications</b></p>
+  <p>🕵️ Passionate about <b>Cybersecurity</b></p>
+  <p>🔭 Atm. I'm learning to develop <b>GUIs in Java/Python/etc.</b></p>
 </div>
 
 <br>
