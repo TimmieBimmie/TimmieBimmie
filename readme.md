@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  💻 I'm currently working on **Web-Applications**
+  💻 I'm currently working on *Web-Applications*
   🕵️ Passionate about **Cybersecurity**
   🔭 Atm. I'm learning to develop GUIs in Java/Python/etc.
 </div>
