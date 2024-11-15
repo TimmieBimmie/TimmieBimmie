@@ -1,8 +1,8 @@
-<h3 align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&width=500&height=80&duration=3000&lines=Hey+there+:);I'm+Tim">
-</h3>
+</h1>
 
----
+<br>
 
 <h2>Stats:</h2>
 
