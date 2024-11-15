@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&width=500&height=60&duration=3000&lines=Hey+there+:);I'm+Tim">
+</p>
 
 <br>
 
