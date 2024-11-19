@@ -4,11 +4,12 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <p>💻 I'm currently working on <b>Web-Applications</b></p>
   <p>🕵️ Passionate about <b>Cybersecurity</b></p>
   <p>🔭 Atm. I'm learning to develop <b>GUIs in Java/Python/etc.</b></p>
 </div>
+
 
 <br>
 <br>
@@ -17,7 +18,5 @@
 
 <br>
 
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=TimmieBimmie&theme=dark&hide_border=true&border_radius=5.5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=300" alt="GitHub Streak" />
-</div>
 
