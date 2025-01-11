@@ -7,7 +7,6 @@
 <div align="left">
   <p>💻 I'm currently working on <b>Web-Applications</b></p>
   <p>🕵️ Passionate about <b>Cybersecurity</b></p>
-  <p>🔭 Atm. I'm learning to develop <b>GUIs in Java/Python/etc.</b></p>
 </div>
 
 
