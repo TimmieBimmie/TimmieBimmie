@@ -1,21 +1,10 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&width=500&height=60&duration=3000&lines=Hey+there+:);I'm+Tim">
-</p>
-
-<br>
-
-<div align="left">
-  <p>💻 I'm currently working on <b>Web-Applications</b></p>
-  <p>🕵️ Passionate about <b>Cybersecurity</b></p>
-</div>
+# 💫 About Me:
+💻 I'm currently working on Web-Applications<br><br>🕵️ Passionate about Cybersecurity
 
 
-<br>
-<br>
-
-<h2>Stats:</h2>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=TimmieBimmie&theme=dark&hide_border=true&border_radius=5.5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=500&card_height=300" alt="GitHub Streak" />
-
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TimmieBimmie&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TimmieBimmie&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TimmieBimmie&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
