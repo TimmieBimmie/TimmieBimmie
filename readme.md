@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently working on Web-Applications<br><br>🕵️ Passionate about Cybersecurity
+💻 I'm currently working on Web-Applications<br>🕵️ Passionate about Cybersecurity
 
 <br>
 
