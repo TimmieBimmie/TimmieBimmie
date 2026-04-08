@@ -12,7 +12,7 @@
 
 - 💬 ***Ask me about*** jesus, spring boot, vue, angular, security
 
-- ⚡ ***Fun fact*** Testing increases your cortisol level - `if it compiles, ship it` ~ Karl Marx
+- ⚡ ***Fun fact*** Testing increases your cortisol level - `if it compiles, ship it` ~ *Karl Marx*
 
 <br>
 
