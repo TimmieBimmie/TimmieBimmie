@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on [Buginner](https://buginner.com)
 
-- 🌱 I’m currently trying out **websockets and clean practices**
+- 🌱 I’m exploring **websockets and clean practices**
 
-- 📝 I regularly write articles on Beginner Stuff :>)
+- 📝 I sometimes write articles on Beginner Stuff :=)
 
-- 💬 Ask me about **spring boot, vue, angular, security**
+- 💬 Ask me about **jesus, spring boot, vue, angular, security**
 
 - ⚡ Fun fact **Testing increases your cortisol level- if it compiles, ship it**
 
