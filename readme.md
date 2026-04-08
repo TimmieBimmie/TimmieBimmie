@@ -1,3 +1,5 @@
+# hi there, I'm Tim :=)
+
 <h3 align="center">passionate web dev and wannabe designer</h3>
 
 <br>
