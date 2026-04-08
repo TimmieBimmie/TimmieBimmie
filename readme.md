@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently trying out **websockets and clean practices**
 
-- 📝 I regularly write articles on [Beginner Stuff :>)](Beginner Stuff :>))
+- 📝 I regularly write articles on Beginner Stuff :>)
 
 - 💬 Ask me about **spring boot, vue, angular, security**
 
