@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Buginner](https://buginner.com)
 
-- 🌱 I’m currently trying **websockets and clean practices**
+- 🌱 I’m currently trying out **websockets and clean practices**
 
 - 📝 I regularly write articles on [Beginner Stuff :>)](Beginner Stuff :>))
 
