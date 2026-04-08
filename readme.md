@@ -28,4 +28,4 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=timmiebimmie&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true" alt="GitHub Streak" align="center"/>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=timmiebimmie&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true" alt="GitHub Streak"/></p>
