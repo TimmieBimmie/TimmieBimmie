@@ -4,7 +4,7 @@
 
 <br>
 
-- 🔭 I’m currently working on [Buginner](https://buginner.com)
+- 🔭 ***I’m currently working on*** [Buginner](https://buginner.com) - a beginner friendly introduction into the world of IT
 
 - 🌱 ***I’m exploring*** websockets and clean practices
 
