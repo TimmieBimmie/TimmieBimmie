@@ -8,7 +8,7 @@
 
 - 🌱 ***I’m exploring*** websockets and clean practices
 
-- 📝 ***I sometimes write articles on*** Beginner Stuff :=)
+- 📝 ***I sometimes write articles on*** Beginner Stuff =)
 
 - 💬 ***Ask me about*** jesus, spring boot, vue, angular, security
 
