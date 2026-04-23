@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table style="border: none">
+<table border="0">
   <tr>
     <td align="center"><a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40" alt="angular"/></a></td>
     <td align="center"><a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40" alt="arduino"/></a></td>
