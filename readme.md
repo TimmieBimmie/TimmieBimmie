@@ -21,7 +21,8 @@
 <a href="https://dribbble.com/timmie-bimmie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="timmie-bimmie" height="30" width="40" /></a>
 </p>
 
-<br>
+
+  
 
 <h3 align="left">Languages and Tools:</h3>
 
