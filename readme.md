@@ -4,18 +4,6 @@
 
 <br>
 
-- 🔭 ***I’m currently working on*** [Buginner](https://buginner.com) - a beginner friendly introduction into the world of IT
-
-- 🌱 ***I’m exploring*** websockets and clean practices
-
-- 📝 ***I sometimes write articles on*** Beginner Stuff =)
-
-- 💬 ***Ask me about*** spring boot, vue, angular, security
-
-- ⚡ ***Fun fact*** Testing increases your cortisol level - ***if it compiles, ship it*** ~ *Karl Marx*
-
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:info@buginner.com" target="blank"><img align="center" src="https://buginner.com/favicon.png" alt="timmie-bimmie" height="40" width="40" style="object-fit: contain"/></a>
