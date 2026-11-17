@@ -4,13 +4,6 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto:info@buginner.com" target="blank"><img align="center" src="https://buginner.com/favicon.png" alt="timmie-bimmie" height="40" width="40" style="object-fit: contain"/></a>
-</p>
-
-<br>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <table border="0">
