@@ -1,4 +1,4 @@
-<h1 align="center">✨ hi there, I'm Tim ✨</h1>
+<h1 align="center">✨ HI THERE, I'M TIM ✨</h1>
 
 <h3 align="center">passionate web dev and wannabe designer</h3>
 
